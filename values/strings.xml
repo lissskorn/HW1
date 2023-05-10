@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW_1</string>
+    <string name="zagolovok">Банковский калькулятор вклада</string>
+    <string name="month">Месяцы</string>
+    <string name="percents">Проценты</string>
+    <string name="amount">Сумма</string>
+    <string name="plus">Рассчитать</string>
+    <string name="my_name">Коргуева О.Ю. РИБО-04-21; Вариант 4</string>
+    <string name="total" />
+    <string name="monthly" />
+
+</resources>
